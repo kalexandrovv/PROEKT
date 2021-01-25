@@ -1,0 +1,9 @@
+To do list etap 4
+
+1. check if info is valid
+
+2. add date and time
+
+3. add greetings in the beginning
+
+4. this is your cart right now
